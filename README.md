@@ -43,4 +43,10 @@ Product Design Resources
       <li><a href="http://agilemanifesto.org/">The Agile Manifesto</a></li>
       <li><a href="http://agilemanifesto.org/principles.html">Principles behind the Agile Manifesto</a></li>
     </ul>
+  <h6>Videos</h6>
+    <ul>
+      <li><a href="https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">Spotify Engineering Culture</a></li>
+    </ul>
+    
+    
     
