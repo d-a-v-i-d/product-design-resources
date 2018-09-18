@@ -1,5 +1,5 @@
 # product-design-resources
-Product Design Resources
+Work in Progress
 
 <h2>What is Product Design?</h2>
     <h6>Articles</h6>
@@ -56,12 +56,6 @@ Product Design Resources
 
 <h2>Research</h2>
   
-  <h6>Books</h6>
-    <ul>
-      <li><a href="https://abookapart.com/products/just-enough-research">Just Enough Research</a> by Erica Hall</li>
-      <li><a href="http://www.talkingtohumans.com/">Talking to Humans</a> by Giff Constable</li>
-      <li><a href="http://janchipchase.com/about/hidden-in-plain-sight/">Hidden in Plain Sight: How to Create Extraordinary Products for Tomorrow's Customers.</a> by Jan Chipchase</li>
-    </ul>
   
   <h6>Articles</h6>
     <ul>
@@ -76,6 +70,15 @@ Product Design Resources
       <li><a href="https://www.youtube.com/watch?v=WpzmOH0hrEM">Startup Lab workshop: User Research, Quick 'n' Dirty</a> by Google Ventures</li>
       <li><a href="https://www.youtube.com/watch?v=8tiuWYs5Z-A">How to ask a question: conducting research for your startup</a> by Google Developers</li>
     </ul>
+  
+  <h6>Books</h6>
+    <ul>
+      <li><a href="https://abookapart.com/products/just-enough-research">Just Enough Research</a> by Erica Hall</li>
+      <li><a href="http://www.talkingtohumans.com/">Talking to Humans</a> by Giff Constable</li>
+      <li><a href="http://janchipchase.com/about/hidden-in-plain-sight/">Hidden in Plain Sight: How to Create Extraordinary Products for Tomorrow's Customers.</a> by Jan Chipchase</li>
+    </ul>
+    
+    
 
    <h6>Binge-worthy People</h6>
     <ul>
