@@ -34,6 +34,7 @@ Work in Progress
       <li><a href="http://theleanstartup.com/">The Lean Startup</a> by Eric Ries</li>
       <li><a href="https://datavizblog.com/2014/04/25/the-lean-ux-manifesto-principle-driven-design/">The Lean UX Manifesto</a></li>
       <li><a href="https://vimeo.com/82577994">6 Principles for Enabling Lean UX: Lean Engineering in Action</a></li>
+      <li><a href="https://leankit.com/learn/kanban/what-is-kanban/">What is Kanban?</a></li>
     </ul>
     
   <h6>Jobs To Be Done</h6>
