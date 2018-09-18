@@ -96,6 +96,11 @@ Work in Progress
       <li><a href="http://www.talkingtohumans.com/">Talking to Humans</a> by Giff Constable</li>
       <li><a href="http://janchipchase.com/about/hidden-in-plain-sight/">Hidden in Plain Sight: How to Create Extraordinary Products for Tomorrow's Customers.</a> by Jan Chipchase</li>
     </ul>
+   
+   <h6>Podcasts / Audio</h6>
+    <ul>
+      <li><a href="https://www.npr.org/templates/story/story.php?storyId=3925277?storyId=3925277">Terry Gross 'All I Did Was Ask'</a> By NPR</li>
+    </ul>  
   
   <h6>Resources</h6>
     <ul>
