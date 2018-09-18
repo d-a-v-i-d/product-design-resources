@@ -58,6 +58,10 @@ Product Design Resources
     <ul>
       <li><a href="https://www.creativeconfidence.com/">Creative Confidence</a> by David Kelly</li>
     </ul>
+  <h6>Articles</h6>
+    <ul>
+      <li><a href="https://medium.com/@andrewdoherty/good-ux-designers-must-be-prepared-to-fight-cbf758b10854">Good UX designres must be fighters</a> by Andrew Doherty</li>
+    </ul>
 
 <h2>Product Management</h2>
   <h6>Podcasts</h6>
