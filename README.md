@@ -72,7 +72,8 @@ Work in Progress
    
   <h6>Articles</h6>
     <ul>
-      <li><a href="https://svpg.com/the-alternative-to-roadmaps/">The Alternative to Roadmaps</a>By Marty Cagan</li>
+      <li><a href="https://svpg.com/the-alternative-to-roadmaps/">The Alternative to Roadmaps</a> By Marty Cagan</li>
+      <li><a href="https://www.producttalk.org/2016/08/opportunity-solution-tree/">Opportunity Solution Trees</a> By Teresa Torres </li>
     </ul> 
    
   <h6>Sites</h6>
