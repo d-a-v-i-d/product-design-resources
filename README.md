@@ -82,6 +82,12 @@ Product Design Resources
       <li><a href="https://medium.com/@mulegirl">Erica Hall</a></li>
       <li><a href="http://janchipchase.com/">Jan Chipchase</a></li>
     </ul>
+   
+<h2>Prototyping</h2>
+   <h6>Video</h6>
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=3lqh-A5Jy4Q">Prototyping: Fake it till you make it.</a></li>
+    </ul>
 
 
 
