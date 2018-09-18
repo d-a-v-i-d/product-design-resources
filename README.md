@@ -52,6 +52,11 @@ Product Design Resources
   <h6>Videos</h6>
     <ul>
       <li><a href="https://www.ted.com/talks/david_kelley_how_to_build_your_creative_confidence?language=en">How you build your creative confidence</a> by David Kelly</li>
+      <li><a href="https://vimeo.com/85040589">The Gap</a> by Ira Glass</li>
+    </ul>
+  <h6>Books</h6>
+    <ul>
+      <li><a href="https://www.creativeconfidence.com/">How you build your creative confidence</a> by David Kelly</li>
     </ul>
     
     
