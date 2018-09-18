@@ -61,6 +61,11 @@ Work in Progress
     <ul>
       <li><a href="https://www.dtelepathy.com/ux-metrics/#intro">How to Choose the Right UX Metrics for Your Product</a></li>
     </ul>
+    
+   <h6>Books</h6>
+    <ul>
+      <li><a href="http://leananalyticsbook.com/">Lean Analytics</a> By Alistair Croll & Ben Yoskovitz</li>
+    </ul>
 
 
 
