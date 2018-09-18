@@ -32,6 +32,12 @@ Product Design Resources
       <li><a href="https://www.youtube.com/watch?v=sioZd3AxmnE">Start With Why</a> By Simon Sinek</li>  
     </ul>
 
+<h2>Product Management</h2>
+  <h6>Podcasts</h6>
+    <ul>
+      <li><a href="https://www.thisisproductmanagement.com/">This is Product Management</a></li>
+    </ul>
+
 <h2>Research</h2>
   <h6>Books</h6>
     <ul>
@@ -49,15 +55,6 @@ Product Design Resources
     <ul>
       <li><a href="https://www.youtube.com/watch?v=WpzmOH0hrEM">Startup Lab workshop: User Research, Quick 'n' Dirty</a> by Google Ventures</li>
     </ul>
-    
-  <h6>People to follow / watch in this space</h6>
-    <ul>
-      <li><a href="http://janchipchase.com/">Jan Chipchase</a></li>
-      <li><a href="https://medium.com/@mulegirl">Erica Hall</a></li>
-    </ul>
-
-
-
 
 <h2>Confidence</h2>
   <h6>Videos</h6>
@@ -74,10 +71,6 @@ Product Design Resources
       <li><a href="https://medium.com/@andrewdoherty/good-ux-designers-must-be-prepared-to-fight-cbf758b10854">Good UX designers must be fighters</a> by Andrew Doherty</li>
     </ul>
 
-<h2>Product Management</h2>
-  <h6>Podcasts</h6>
-    <ul>
-      <li><a href="https://www.thisisproductmanagement.com/">This is Product Management</a></li>
-    </ul>
+
 
     
