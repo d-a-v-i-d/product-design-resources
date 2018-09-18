@@ -58,6 +58,7 @@ Work in Progress
       <li><a href="http://www.designkit.org/methods">DesignKit.org</a> by IDEO</li>
     </ul>
 
+<!-- ************************  M E T R I C S  ************************ -->
 
 <h2>Metrics</h2>
     
@@ -72,9 +73,9 @@ Work in Progress
     </ul>
 
 
+<!-- ************************  Research  ************************ -->
 
 <h2>Research</h2>
-  
   
   <h6>Articles</h6>
     <ul>
@@ -88,6 +89,7 @@ Work in Progress
     <ul>
       <li><a href="https://www.youtube.com/watch?v=WpzmOH0hrEM">Startup Lab workshop: User Research, Quick 'n' Dirty</a> by Google Ventures</li>
       <li><a href="https://www.youtube.com/watch?v=8tiuWYs5Z-A">How to ask a question: conducting research for your startup</a> by Google Developers</li>
+      <li><a href="https://www.youtube.com/watch?v=QckIzHC99Xc&feature=player_embedded">Rocket Surgery Made Easy by Steve Krug: Usability Demo</a> by Steve Krug</li>
     </ul>
   
   <h6>Books</h6>
@@ -107,8 +109,6 @@ Work in Progress
       <li><a href="http://sensible.com/downloads-rsme.html">Useability Testing Resources</a> By Advanced Common Sense</li>
     </ul>    
     
-    
-
    <h6>Binge-worthy People</h6>
     <ul>
       <li><a href="https://library.gv.com/@mmargolis">Michael Margolis</a></li>
