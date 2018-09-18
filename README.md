@@ -16,6 +16,7 @@ Product Design Resources
     <ul>
       <li><a href="http://www.gv.com/sprint/">Sprint</a> by Jake Knapp</li>
       <li><a href="http://theleanstartup.com/">The Lean Startup</a> by Eric Ries</li>
+      <li><a href="http://shop.oreilly.com/product/0636920033851.do">User Story Mapping</a> by Jeff Patton</li>
     </ul>
     
   <h6>Articles</h6>
