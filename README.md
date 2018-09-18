@@ -52,6 +52,7 @@ Product Design Resources
   <h6>Videos</h6>
     <ul>
       <li><a href="https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">Spotify Engineering Culture</a></li>
+      <li><a href="https://www.youtube.com/watch?v=sioZd3AxmnE">Start With Why</a> By Simon Sinek</li>  
     </ul>
 
 <h2>Confidence</h2>
