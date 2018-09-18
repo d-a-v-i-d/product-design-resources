@@ -75,6 +75,13 @@ Product Design Resources
       <li><a href="https://www.youtube.com/watch?v=WpzmOH0hrEM">Startup Lab workshop: User Research, Quick 'n' Dirty</a> by Google Ventures</li>
     </ul>
 
+   <h6>Binge-worthy People</h6>
+    <ul>
+      <li><a href="https://library.gv.com/@mmargolis">Michael Margolis</a></li>
+      <li><a href="https://medium.com/@mulegirl">Erica Hall</a></li>
+      <li><a href="http://janchipchase.com/">Jan Chipchase</a></li>
+    </ul>
+
 
 
 <h2>Confidence</h2>
