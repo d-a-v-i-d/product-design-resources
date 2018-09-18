@@ -56,7 +56,13 @@ Product Design Resources
     </ul>
   <h6>Books</h6>
     <ul>
-      <li><a href="https://www.creativeconfidence.com/">How you build your creative confidence</a> by David Kelly</li>
+      <li><a href="https://www.creativeconfidence.com/">Creative Confidence</a> by David Kelly</li>
     </ul>
-    
+
+<h2>Product Management</h2>
+  <h6>Podcasts</h6>
+    <ul>
+      <li><a href="https://www.thisisproductmanagement.com/">This is Product Management</a> by Ira Glass</li>
+    </ul>
+
     
