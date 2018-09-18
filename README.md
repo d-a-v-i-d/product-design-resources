@@ -36,5 +36,6 @@ Product Design Resources
   <h6>Articles</h6>
     <ul>
       <li><a href="https://datavizblog.com/2014/04/25/the-lean-ux-manifesto-principle-driven-design/">The Lean UX Manifesto</a></li>
+      <li><a href="https://content.pivotal.io/blog/agile-vs-lean-vs-lean-agile">Agile vs. Lean vs. Lean Agile</a></li>
     </ul>
     
