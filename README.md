@@ -16,11 +16,6 @@ Work in Progress
 <!-- ************************  P R O C E S S  &&  P R I N C I P L E S  ************************ -->
 
 <h2>Process And Principles</h2>
-  
-  <h6>Sprints</h6>
-    <ul>
-      <li><a href="http://www.gv.com/sprint/">Sprint</a> by Jake Knapp</li>
-    </ul>
     
   <h6>Agile</h6>
     <ul>
@@ -36,6 +31,17 @@ Work in Progress
       <li><a href="https://vimeo.com/82577994">6 Principles for Enabling Lean UX: Lean Engineering in Action</a></li>
       <li><a href="https://leankit.com/learn/kanban/what-is-kanban/">What is Kanban?</a></li>
     </ul>
+
+   <h6>Balanced Teams</h6>
+    <ul>
+      <li><a href="https://medium.com/product-labs/why-balanced-teams-work-better-together-b29085536733">Why Balanced Teams work better together</a> By Pam Dineva</li>
+          <li><a href="https://www.youtube.com/watch?v=Z_Q4Q8rCVpU">Balanced Team</a> By Janice Fraser</li>
+    </ul>
+
+ <h6>Product Management</h6>
+    <ul>
+      <li><a href="https://www.thisisproductmanagement.com/">This is Product Management</a></li>
+    </ul>
     
   <h6>Jobs To Be Done</h6>
     <ul>
@@ -43,16 +49,10 @@ Work in Progress
       <li><a href="https://www.nngroup.com/articles/personas-jobs-be-done/">Personas vs. Jobs-to-Be-Done</a> Page Laubheimer</li>
     </ul>
   
-  <h6>Balanced Teams</h6>
+ <h6>Sprints</h6>
     <ul>
-      <li><a href="https://medium.com/product-labs/why-balanced-teams-work-better-together-b29085536733">Why Balanced Teams work better together</a> By Pam Dineva</li>
-          <li><a href="https://www.youtube.com/watch?v=Z_Q4Q8rCVpU">Balanced Team</a> By Janice Fraser</li>
-    </ul>
-  
-  <h6>Product Management</h6>
-    <ul>
-      <li><a href="https://www.thisisproductmanagement.com/">This is Product Management</a></li>
-    </ul>
+      <li><a href="http://www.gv.com/sprint/">Sprint</a> by Jake Knapp</li>
+    </ul> 
   
   <h6>Human Centered Design (HCD)</h6>
     <ul>
