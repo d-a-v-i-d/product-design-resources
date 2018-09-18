@@ -55,11 +55,7 @@ Work in Progress
     <ul>
       <li><a href="https://www.thisisproductmanagement.com/">This is Product Management</a></li>
     </ul>
-  
-  <h6>Articles</h6>
-    <ul>
-      <li><a href="https://svpg.com/the-alternative-to-roadmaps/">The Alternative to Roadmaps</a>By Marty Cagan</li>
-    </ul>
+ 
 
 <!-- ************************  H C D  ************************ -->
 
@@ -70,10 +66,15 @@ Work in Progress
       <li><a href="http://www.designkit.org/methods">DesignKit.org</a> by IDEO</li>
     </ul>
 
-<!-- ************************  M E T R I C S  ************************ -->
+<!-- ************************  O U T C O M E S  &&  M E T R I C S  ************************ -->
 
-<h2>Metrics</h2>
-    
+<h2>Outcomes & Metrics</h2>
+   
+  <h6>Articles</h6>
+    <ul>
+      <li><a href="https://svpg.com/the-alternative-to-roadmaps/">The Alternative to Roadmaps</a>By Marty Cagan</li>
+    </ul> 
+   
   <h6>Sites</h6>
     <ul>
       <li><a href="https://www.dtelepathy.com/ux-metrics/#intro">How to Choose the Right UX Metrics for Your Product</a></li>
