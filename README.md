@@ -42,8 +42,12 @@ Work in Progress
       <li><a href="https://jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf">User Story Mapping</a></li>
     </ul>
 
-<h2>Product Management</h2>
+<h2>Product</h2>
   <h6>Podcasts</h6>
+    <ul>
+      <li><a href="https://www.thisisproductmanagement.com/">This is Product Management</a></li>
+    </ul>
+  <h6>Articles</h6>
     <ul>
       <li><a href="https://www.thisisproductmanagement.com/">This is Product Management</a></li>
     </ul>
