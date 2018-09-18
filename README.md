@@ -47,6 +47,12 @@ Product Design Resources
       <li><a href="https://www.thisisproductmanagement.com/">This is Product Management</a></li>
     </ul>
 
+<h2>Human Centered Design (HCD)</h2>
+  <h6>Sites</h6>
+    <ul>
+      <li><a href="http://www.designkit.org/methods">DesignKit.org</a> by IDEO</li>
+    </ul>
+
 <h2>Research</h2>
   <h6>Books</h6>
     <ul>
