@@ -53,15 +53,19 @@ Product Design Resources
       <li><a href="http://www.designkit.org/methods">DesignKit.org</a> by IDEO</li>
     </ul>
 
+
 <h2>Research</h2>
+  
   <h6>Books</h6>
     <ul>
       <li><a href="https://abookapart.com/products/just-enough-research">Just Enough Research</a> by Erica Hall</li>
       <li><a href="http://www.talkingtohumans.com/">Talking to Humans</a> by Giff Constable</li>
       <li><a href="http://janchipchase.com/about/hidden-in-plain-sight/">Hidden in Plain Sight: How to Create Extraordinary Products for Tomorrow's Customers.</a> by Jan Chipchase</li>
     </ul>
+  
   <h6>Articles</h6>
     <ul>
+      <li><a href="https://library.gv.com/get-better-data-from-user-studies-16-interviewing-tips-328d305c3e37">Get better data from user studies: 16 interviewing tips</a> by Michael Margolis</li>
       <li><a href="https://medium.com/mule-design/on-surveys-5a73dda5e9a0">On Surveys</a> by Erica Hall</li>
       <li><a href="https://www.ideo.com/news/going-deeper-seeing-further/">Going Deeper, Seeing Further</a> by Jane Fulton Suri</li>
     </ul>
@@ -70,6 +74,8 @@ Product Design Resources
     <ul>
       <li><a href="https://www.youtube.com/watch?v=WpzmOH0hrEM">Startup Lab workshop: User Research, Quick 'n' Dirty</a> by Google Ventures</li>
     </ul>
+
+
 
 <h2>Confidence</h2>
   <h6>Videos</h6>
