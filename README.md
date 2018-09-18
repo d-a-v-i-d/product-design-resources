@@ -19,6 +19,7 @@ Product Design Resources
   <h6>Articles</h6>
     <ul>
       <li><a href="https://medium.com/mule-design/on-surveys-5a73dda5e9a0">On Surveys</a> by Erica Hall</li>
+      <li><a href="https://www.ideo.com/news/going-deeper-seeing-further/">Going Deeper, Seeing Further</a> by Jane Fulton Suri</li>
     </ul>
   <h6>People to follow / watch in this space</h6>
     <ul>
