@@ -16,7 +16,7 @@ Product Design Resources
     <ul>
       <li><a href="https://abookapart.com/products/just-enough-research">Just Enough Research</a> by Erica Hall</li>
       <li><a href="http://www.talkingtohumans.com/">Talking to Humans</a> by Giff Constable</li>
-      <li><a href="http://www.talkingtohumans.com/">Hidden in Plain Sight: How to Create Extraordinary Products for Tomorrow's Custoemrs.</a> by Jan Chipchase</li>
+      <li><a href="http://janchipchase.com/about/hidden-in-plain-sight/">Hidden in Plain Sight: How to Create Extraordinary Products for Tomorrow's Customers.</a> by Jan Chipchase</li>
     </ul>
   <h6>Articles</h6>
     <ul>
