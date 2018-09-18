@@ -45,6 +45,7 @@ Work in Progress
   <h6>Balanced Teams</h6>
     <ul>
       <li><a href="https://medium.com/product-labs/why-balanced-teams-work-better-together-b29085536733">Why Balanced Teams work better together</a> By Pam Dineva</li>
+          <li><a href="https://www.youtube.com/watch?v=Z_Q4Q8rCVpU">Balanced Team</a> By Janice Fraser</li>
     </ul>
   
   <h6>Product Management</h6>
