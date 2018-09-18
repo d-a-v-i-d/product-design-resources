@@ -20,7 +20,6 @@ Work in Progress
   <h6>Sprints</h6>
     <ul>
       <li><a href="http://www.gv.com/sprint/">Sprint</a> by Jake Knapp</li>
-      <li><a href="http://shop.oreilly.com/product/0636920033851.do">User Story Mapping</a> by Jeff Patton</li>
     </ul>
     
   <h6>Agile</h6>
@@ -34,21 +33,12 @@ Work in Progress
     <ul>
       <li><a href="http://theleanstartup.com/">The Lean Startup</a> by Eric Ries</li>
       <li><a href="https://datavizblog.com/2014/04/25/the-lean-ux-manifesto-principle-driven-design/">The Lean UX Manifesto</a></li>
-      <li><a href="https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">Spotify Engineering Culture</a></li>
-      <li><a href="https://www.youtube.com/watch?v=sioZd3AxmnE">Start With Why</a> By Simon Sinek</li>
-    </ul>
-
-  <h6>Other</h6>
-    <ul>
-      <li><a href="https://www.youtube.com/watch?v=ItwIRAX0Bmw">MVP: and why we confuse building to learn with building to earn</a> By Jeff Patton</li> 
-      <li><a href="https://content.pivotal.io/blog/agile-vs-lean-vs-lean-agile">Agile vs. Lean vs. Lean Agile</a></li>
-      <li><a href="https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond">What is Double Diamond?</a></li>
+      <li><a href="https://vimeo.com/82577994">6 Principles for Enabling Lean UX: Lean Engineering in Action</a></li>
     </ul>
     
   <h6>Jobs To Be Done</h6>
     <ul>
       <li><a href="https://jtbd.info/">Jobs To Be Done</a></li>
-      <li><a href="https://jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf">User Story Mapping</a></li>
     </ul>
   
   <h6>Balanced Teams</h6>
@@ -60,16 +50,23 @@ Work in Progress
     <ul>
       <li><a href="https://www.thisisproductmanagement.com/">This is Product Management</a></li>
     </ul>
- 
-
-<!-- ************************  H C D  ************************ -->
-
-<h2>Human Centered Design (HCD)</h2>
   
-  <h6>Sites</h6>
+  <h6>Human Centered Design (HCD)</h6>
     <ul>
       <li><a href="http://www.designkit.org/methods">DesignKit.org</a> by IDEO</li>
     </ul>
+  
+  <h6>Other</h6>
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=ItwIRAX0Bmw">MVP: and why we confuse building to learn with building to earn</a> By Jeff Patton</li> 
+      <li><a href="https://content.pivotal.io/blog/agile-vs-lean-vs-lean-agile">Agile vs. Lean vs. Lean Agile</a></li>
+      <li><a href="https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond">What is Double Diamond?</a></li>
+      <li><a href="https://www.youtube.com/watch?v=sioZd3AxmnE">Start With Why</a> By Simon Sinek</li>
+      <li><a href="https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">Spotify Engineering Culture</a></li>
+      <li><a href="https://jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf">User Story Mapping</a></li>
+      <li><a href="http://shop.oreilly.com/product/0636920033851.do">User Story Mapping</a> by Jeff Patton</li>
+    </ul>
+
 
 <!-- ************************  O U T C O M E S  &&  M E T R I C S  ************************ -->
 
