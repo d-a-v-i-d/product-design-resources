@@ -27,14 +27,13 @@ Product Design Resources
       <li><a href="https://medium.com/@mulegirl">Erica Hall</a></li>
     </ul>
 
-<h2>Process</h2>
+<h2>Process And Principles</h2>
   <h6>Books</h6>
     <ul>
       <li><a href="http://www.gv.com/sprint/">Sprint</a> by Jake Knapp</li>
     </ul>
     
-<h2>Lean</h2>
-  <h6>Books</h6>
+  <h6>Articles</h6>
     <ul>
       <li><a href="https://datavizblog.com/2014/04/25/the-lean-ux-manifesto-principle-driven-design/">The Lean UX Manifesto</a></li>
     </ul>
