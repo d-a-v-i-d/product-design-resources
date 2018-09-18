@@ -32,6 +32,7 @@ Work in Progress
     <ul>
       <li><a href="https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">Spotify Engineering Culture</a></li>
       <li><a href="https://www.youtube.com/watch?v=sioZd3AxmnE">Start With Why</a> By Simon Sinek</li>
+      <li><a href=" https://www.infoq.com/presentations/agile-2018">Agile in 2018</a> By Martin Fowler </li>
       <li><a href="https://www.youtube.com/watch?v=ItwIRAX0Bmw">MVP: and why we confuse building to learn with building to earn</a> By Jeff Patton</li> 
     </ul>
 
