@@ -73,6 +73,7 @@ Product Design Resources
    <h6>Videos</h6>
     <ul>
       <li><a href="https://www.youtube.com/watch?v=WpzmOH0hrEM">Startup Lab workshop: User Research, Quick 'n' Dirty</a> by Google Ventures</li>
+      <li><a href="https://www.youtube.com/watch?v=8tiuWYs5Z-A">How to ask a question: conducting research for your startup</a> by Google Developers</li>
     </ul>
 
    <h6>Binge-worthy People</h6>
