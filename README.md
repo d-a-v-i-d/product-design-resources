@@ -47,6 +47,11 @@ Product Design Resources
     <ul>
       <li><a href="https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">Spotify Engineering Culture</a></li>
     </ul>
-    
+
+<h2>Confidence</h2>
+  <h6>Videos</h6>
+    <ul>
+      <li><a href="https://www.ted.com/talks/david_kelley_how_to_build_your_creative_confidence?language=en">How you build your creative confidence</a> by David Kelly</li>
+    </ul>
     
     
