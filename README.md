@@ -31,6 +31,7 @@ Product Design Resources
   <h6>Books</h6>
     <ul>
       <li><a href="http://www.gv.com/sprint/">Sprint</a> by Jake Knapp</li>
+      <li><a href="http://theleanstartup.com/">The Lean Startup</a> by Eric Ries</li>
     </ul>
     
   <h6>Articles</h6>
