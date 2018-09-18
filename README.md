@@ -40,6 +40,7 @@ Work in Progress
   <h6>Jobs To Be Done</h6>
     <ul>
       <li><a href="https://jtbd.info/">Jobs To Be Done</a></li>
+      <li><a href="https://www.nngroup.com/articles/personas-jobs-be-done/">Personas vs. Jobs-to-Be-Done</a> Page Laubheimer</li>
     </ul>
   
   <h6>Balanced Teams</h6>
