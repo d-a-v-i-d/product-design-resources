@@ -39,5 +39,6 @@ Product Design Resources
       <li><a href="https://content.pivotal.io/blog/agile-vs-lean-vs-lean-agile">Agile vs. Lean vs. Lean Agile</a></li>
       <li><a href="https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond">What is Double Diamond?</a></li>
       <li><a href="http://agilemanifesto.org/">The Agile Manifesto</a></li>
+      <li><a href="http://agilemanifesto.org/principles.html">Principles behind the Agile Manifesto</a></li>
     </ul>
     
