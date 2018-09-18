@@ -47,9 +47,14 @@ Work in Progress
       <li><a href="https://jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf">User Story Mapping</a></li>
     </ul>
 
-<!-- ************************  P R O D U C T  ************************ -->
+<!-- ************************  P R O D U C T  T E A M ************************ -->
 
 <h2>Product</h2>
+  
+  <h6>Articles</h6>
+    <ul>
+      <li><a href="https://medium.com/product-labs/why-balanced-teams-work-better-together-b29085536733">Why Balanced Teams work better together</a> By Pam Dineva</li>
+    </ul>
   
   <h6>Podcasts</h6>
     <ul>
