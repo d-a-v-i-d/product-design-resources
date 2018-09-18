@@ -1,17 +1,22 @@
 # product-design-resources
 Work in Progress
 
+<!-- ************************  P R O D U C T  D E S I G N  ************************ -->
+
 <h2>What is Product Design?</h2>
-    <h6>Articles</h6>
-    <ul>
+    
+   <h6>Articles</h6>
+      <ul>
         <li><a href="https://medium.com/@ericeriksson/what-is-product-design-9709572cb3ff">What is Product Design?</a> by Eric Eriksson</li> 
         <li><a href="http://www.travandlos.com/26">Full-Process Designer</a> by Travis Nelson</li>
         <li><a href="http://blog.keenancummings.com/post/52223385681/a-working-definition-of-product-design">The Working Definition of Product Design</a> by Keenan Cummings</li>
         <li><a href="<li><a href="https://medium.com/@ericeriksson/what-is-product-design-9709572cb3ff">Sorry UX, the party's over.</a> by Robert Skrobe</li>
-    </ul>
+      </ul>
 
+<!-- ************************  P R O C E S S  &&  P R I N C I P L E S  ************************ -->
 
 <h2>Process And Principles</h2>
+  
   <h6>Books</h6>
     <ul>
       <li><a href="http://www.gv.com/sprint/">Sprint</a> by Jake Knapp</li>
@@ -36,23 +41,30 @@ Work in Progress
       <li><a href="https://www.youtube.com/watch?v=ItwIRAX0Bmw">MVP: and why we confuse building to learn with building to earn</a> By Jeff Patton</li> 
     </ul>
 
-<h6>Sites & Resources</h6>
+  <h6>Sites & Resources</h6>
     <ul>
       <li><a href="https://jtbd.info/">Jobs To Be Done</a></li>
       <li><a href="https://jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf">User Story Mapping</a></li>
     </ul>
 
+<!-- ************************  P R O D U C T  ************************ -->
+
 <h2>Product</h2>
+  
   <h6>Podcasts</h6>
     <ul>
       <li><a href="https://www.thisisproductmanagement.com/">This is Product Management</a></li>
     </ul>
+  
   <h6>Articles</h6>
     <ul>
-      <li><a href="https://www.thisisproductmanagement.com/">This is Product Management</a></li>
+      <li><a href="https://svpg.com/the-alternative-to-roadmaps/">The Alternative to Roadmaps</a>By Marty Cagan</li>
     </ul>
 
+<!-- ************************  H C D  ************************ -->
+
 <h2>Human Centered Design (HCD)</h2>
+  
   <h6>Sites</h6>
     <ul>
       <li><a href="http://www.designkit.org/methods">DesignKit.org</a> by IDEO</li>
@@ -115,25 +127,31 @@ Work in Progress
       <li><a href="https://medium.com/@mulegirl">Erica Hall</a></li>
       <li><a href="http://janchipchase.com/">Jan Chipchase</a></li>
     </ul>
-   
+
+<!-- ************************  P R O T O T Y P I N G  ************************ -->
+
 <h2>Prototyping</h2>
-   <h6>Video</h6>
+   
+   <h6>Video</h6> 
     <ul>
       <li><a href="https://www.youtube.com/watch?v=3lqh-A5Jy4Q">Prototyping: Fake it till you make it.</a></li>
     </ul>
 
-
+<!-- ************************  C O N F I D E N C E  ************************ -->
 
 <h2>Confidence</h2>
+  
   <h6>Videos</h6>
     <ul>
       <li><a href="https://www.ted.com/talks/david_kelley_how_to_build_your_creative_confidence?language=en">How you build your creative confidence</a> by David Kelly</li>
       <li><a href="https://vimeo.com/85040589">The Gap</a> by Ira Glass</li>
     </ul>
+  
   <h6>Books</h6>
     <ul>
       <li><a href="https://www.creativeconfidence.com/">Creative Confidence</a> by David Kelly</li>
     </ul>
+  
   <h6>Articles</h6>
     <ul>
       <li><a href="https://medium.com/@andrewdoherty/good-ux-designers-must-be-prepared-to-fight-cbf758b10854">Good UX designers must be fighters</a> by Andrew Doherty</li>
