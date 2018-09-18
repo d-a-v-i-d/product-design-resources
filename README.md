@@ -66,6 +66,7 @@ Product Design Resources
   <h6>Articles</h6>
     <ul>
       <li><a href="https://library.gv.com/get-better-data-from-user-studies-16-interviewing-tips-328d305c3e37">Get better data from user studies: 16 interviewing tips</a> by Michael Margolis</li>
+      <li><a href="https://www.usertesting.com/blog/generative-vs-evaluative-research/">Generative vs. Evaluative Research: What’s the Difference and Why Do We Need Each?</a> by Janelle Estes</li>
       <li><a href="https://medium.com/mule-design/on-surveys-5a73dda5e9a0">On Surveys</a> by Erica Hall</li>
       <li><a href="https://www.ideo.com/news/going-deeper-seeing-further/">Going Deeper, Seeing Further</a> by Jane Fulton Suri</li>
     </ul>
