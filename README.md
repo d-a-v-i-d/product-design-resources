@@ -15,6 +15,7 @@ Product Design Resources
   <h6>Books</h6>
     <ul>
       <li><a href="https://abookapart.com/products/just-enough-research">Just Enough Research</a> by Erica Hall</li>
+      <li><a href="http://www.talkingtohumans.com/">Talking to Humans</a> by Giff Constable</li>
     </ul>
   <h6>Articles</h6>
     <ul>
