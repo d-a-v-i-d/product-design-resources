@@ -62,7 +62,7 @@ Product Design Resources
 <h2>Product Management</h2>
   <h6>Podcasts</h6>
     <ul>
-      <li><a href="https://www.thisisproductmanagement.com/">This is Product Management</a> by Ira Glass</li>
+      <li><a href="https://www.thisisproductmanagement.com/">This is Product Management</a></li>
     </ul>
 
     
