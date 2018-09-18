@@ -31,7 +31,8 @@ Product Design Resources
   <h6>Videos</h6>
     <ul>
       <li><a href="https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">Spotify Engineering Culture</a></li>
-      <li><a href="https://www.youtube.com/watch?v=sioZd3AxmnE">Start With Why</a> By Simon Sinek</li>  
+      <li><a href="https://www.youtube.com/watch?v=sioZd3AxmnE">Start With Why</a> By Simon Sinek</li>
+      <li><a href="https://www.youtube.com/watch?v=ItwIRAX0Bmw">MVP: and why we confuse building to learn with building to earn</a> By Jeff Patton</li> 
     </ul>
 
 <h6>Sites & Resources</h6>
