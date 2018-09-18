@@ -33,3 +33,9 @@ Product Design Resources
       <li><a href="http://www.gv.com/sprint/">Sprint</a> by Jake Knapp</li>
     </ul>
     
+<h2>Lean</h2>
+  <h6>Books</h6>
+    <ul>
+      <li><a href="https://datavizblog.com/2014/04/25/the-lean-ux-manifesto-principle-driven-design/">The Lean UX Manifesto</a></li>
+    </ul>
+    
