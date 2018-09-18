@@ -34,9 +34,10 @@ Product Design Resources
       <li><a href="https://www.youtube.com/watch?v=sioZd3AxmnE">Start With Why</a> By Simon Sinek</li>  
     </ul>
 
-<h6>Sites</h6>
+<h6>Sites & Resources</h6>
     <ul>
       <li><a href="https://jtbd.info/">Jobs To Be Done</a></li>
+      <li><a href="https://jpattonassociates.com/wp-content/uploads/2015/03/story_mapping.pdf">User Story Mapping</a></li>
     </ul>
 
 <h2>Product Management</h2>
