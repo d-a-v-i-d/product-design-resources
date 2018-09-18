@@ -11,6 +11,27 @@ Product Design Resources
     </ul>
 
 
+<h2>Process And Principles</h2>
+  <h6>Books</h6>
+    <ul>
+      <li><a href="http://www.gv.com/sprint/">Sprint</a> by Jake Knapp</li>
+      <li><a href="http://theleanstartup.com/">The Lean Startup</a> by Eric Ries</li>
+    </ul>
+    
+  <h6>Articles</h6>
+    <ul>
+      <li><a href="https://datavizblog.com/2014/04/25/the-lean-ux-manifesto-principle-driven-design/">The Lean UX Manifesto</a></li>
+      <li><a href="https://content.pivotal.io/blog/agile-vs-lean-vs-lean-agile">Agile vs. Lean vs. Lean Agile</a></li>
+      <li><a href="https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond">What is Double Diamond?</a></li>
+      <li><a href="http://agilemanifesto.org/">The Agile Manifesto</a></li>
+      <li><a href="http://agilemanifesto.org/principles.html">Principles behind the Agile Manifesto</a></li>
+    </ul>
+  <h6>Videos</h6>
+    <ul>
+      <li><a href="https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">Spotify Engineering Culture</a></li>
+      <li><a href="https://www.youtube.com/watch?v=sioZd3AxmnE">Start With Why</a> By Simon Sinek</li>  
+    </ul>
+
 <h2>Research</h2>
   <h6>Books</h6>
     <ul>
@@ -35,26 +56,8 @@ Product Design Resources
       <li><a href="https://medium.com/@mulegirl">Erica Hall</a></li>
     </ul>
 
-<h2>Process And Principles</h2>
-  <h6>Books</h6>
-    <ul>
-      <li><a href="http://www.gv.com/sprint/">Sprint</a> by Jake Knapp</li>
-      <li><a href="http://theleanstartup.com/">The Lean Startup</a> by Eric Ries</li>
-    </ul>
-    
-  <h6>Articles</h6>
-    <ul>
-      <li><a href="https://datavizblog.com/2014/04/25/the-lean-ux-manifesto-principle-driven-design/">The Lean UX Manifesto</a></li>
-      <li><a href="https://content.pivotal.io/blog/agile-vs-lean-vs-lean-agile">Agile vs. Lean vs. Lean Agile</a></li>
-      <li><a href="https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond">What is Double Diamond?</a></li>
-      <li><a href="http://agilemanifesto.org/">The Agile Manifesto</a></li>
-      <li><a href="http://agilemanifesto.org/principles.html">Principles behind the Agile Manifesto</a></li>
-    </ul>
-  <h6>Videos</h6>
-    <ul>
-      <li><a href="https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/">Spotify Engineering Culture</a></li>
-      <li><a href="https://www.youtube.com/watch?v=sioZd3AxmnE">Start With Why</a> By Simon Sinek</li>  
-    </ul>
+
+
 
 <h2>Confidence</h2>
   <h6>Videos</h6>
