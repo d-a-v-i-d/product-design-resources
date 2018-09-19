@@ -142,6 +142,9 @@ Work in Progress
    <h6>Video</h6> 
     <ul>
       <li><a href="https://www.youtube.com/watch?v=3lqh-A5Jy4Q">Prototyping: Fake it till you make it.</a></li>
+      <li><a href="https://www.youtube.com/watch?v=JMjozqJS44M">Rapid Prototyping 1 of 3: Sketching & Paper Prototyping</a></li>
+      <li><a href="https://www.youtube.com/watch?v=KWGBGTGryFk">Rapid Prototyping 2 of 3: Digital Prototyping</a></li>
+      <li><a href="https://www.youtube.com/watch?v=lusOgox4xMI">Rapid Prototyping 3 of 3: Native Prototyping</a></li>
     </ul>
 
 <!-- ************************  C O N F I D E N C E  ************************ -->
