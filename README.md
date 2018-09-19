@@ -10,7 +10,7 @@ Work in Progress
         <li><a href="https://medium.com/@ericeriksson/what-is-product-design-9709572cb3ff">What is Product Design?</a> by Eric Eriksson</li> 
         <li><a href="http://www.travandlos.com/26">Full-Process Designer</a> by Travis Nelson</li>
         <li><a href="http://blog.keenancummings.com/post/52223385681/a-working-definition-of-product-design">The Working Definition of Product Design</a> by Keenan Cummings</li>
-        <li><a href="<li><a href="https://medium.com/@rskrobe/sorry-ux-the-partys-over-ccff2e0b4d0">Sorry UX, the party's over.</a> by Robert Skrobe</li>
+        <li><a href="https://medium.com/@rskrobe/sorry-ux-the-partys-over-ccff2e0b4d0">Sorry UX, the party's over.</a> by Robert Skrobe</li>
       </ul>
 
 <!-- ************************  P R O C E S S  &&  P R I N C I P L E S  ************************ -->
